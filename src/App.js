@@ -1,11 +1,11 @@
-import Compt1 from './Component/Compt1';
+import react from "react"
 import './App.css';
 
 function App() {
-  return (
-    <div className="App">
-      <Compt1/>
-    </div>
+   return(
+        <div>
+            <p id="root">Yes! ready to render.</p>
+        </div>
   );
 }
 
