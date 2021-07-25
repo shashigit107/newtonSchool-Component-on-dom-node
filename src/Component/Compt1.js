@@ -6,4 +6,4 @@ const Compt1=()=>{
         </div>
     )
 }
-export default Compt1
+export default Compt1;
